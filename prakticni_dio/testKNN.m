@@ -1,0 +1,1 @@
+[label,score,cost] = predict(ModelKNN,testData);

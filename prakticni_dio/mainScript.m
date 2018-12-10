@@ -1,0 +1,14 @@
+readData
+teams
+swapNamesIDs
+skripta1
+convertCellToMatrix
+calculateShots
+calculateShotsOnTarget
+calculateYellows
+calculateReds
+skripta2
+calculateForm
+calculateH2H
+calculateHomeAdvantage
+fillData

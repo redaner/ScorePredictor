@@ -1,0 +1,1 @@
+[label,posterior,cost] = predict(ModelNB,testData);

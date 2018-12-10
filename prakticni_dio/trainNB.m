@@ -1,0 +1,1 @@
+ModelNB = fitcnb(trainingData, classificationOutputTraining);
